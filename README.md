@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @belakap
-- 👀 I’m interested in data analysis
-- 🌱 I’m currently learning github
-- 💞️ I’m looking to collaborate on data analysis
-- 📫 How to reach me code ky
+- 👋 Hi, I’m a new branch
+- 👀 Created on this day May 02, 2024
+- 🌱 I like coding for employment placement
+- 💞️ I love epidemiology
+- 📫 Coding will help me in epidemiologic research.
 - 😄 Pronouns: NA
 - - ⚡ Fun fact: NA
 <!---
